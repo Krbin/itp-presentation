@@ -14,12 +14,19 @@
 #### Adresy přijímače a vysílače
   - obě mají 6 bajtů
   - Zařízení zjišťuje jestli je přijímačem a proto je adresa přijímače první jestli není tak rámec vypustí
+
+#### MAC Adresa
   - V hexadecimální soutavě
-  - skládá se z 
-```
-00:01:42:a9:c2:dd
-00-01-42-a9-c2-dd
-```
+  - skládá se z 3 bajtů ID výrobce a 3 bajtů ID karty
+
+ - Poslední bit v prvním bajtu určuje jestli je adresa unicast *(v případě že bit je 0)* nebo multicast *(v případě že je jedna)* 
+
+ - poslední bit je 0 znamenaje že adresa je unicast *(můžete poznat jestli první bit je lichý 1,...,9,B,D,F)* `06:b2:d9:a2:32:9e | 06 => 00000110`
+
+- poslední bit je 1 znamenaje že adresa je multicast *(můžete poznat jestli první bit je sudý 2,...,8,A,C,E)*   `11:c0:ff:ee:d8:ab | 11 => 00010001`
+
+- Broadcast adresa, kde všechny bity jsou zapnuté  `FF:FF:FF:FF:FF:FF`
+
 
 #### Typ a délka
  - 802.3 zamění typové pole za délku dat 
