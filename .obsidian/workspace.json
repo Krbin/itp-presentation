@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethernet protokol IEEE 802.3.md",
+                "file": "Ethernet protokol IEEE 802.3 a Ethernet II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ethernet protokol IEEE 802.3"
+              "title": "Ethernet protokol IEEE 802.3 a Ethernet II"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethernet protokol IEEE 802.3.md",
+                "file": "Ethernet protokol IEEE 802.3 a Ethernet II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ethernet protokol IEEE 802.3"
+              "title": "Backlinks for Ethernet protokol IEEE 802.3 a Ethernet II"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethernet protokol IEEE 802.3.md",
+                "file": "Ethernet protokol IEEE 802.3 a Ethernet II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ethernet protokol IEEE 802.3"
+              "title": "Outgoing links from Ethernet protokol IEEE 802.3 a Ethernet II"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethernet protokol IEEE 802.3.md"
+                "file": "Ethernet protokol IEEE 802.3 a Ethernet II.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Ethernet protokol IEEE 802.3"
+              "title": "Outline of Ethernet protokol IEEE 802.3 a Ethernet II"
             }
           },
           {
