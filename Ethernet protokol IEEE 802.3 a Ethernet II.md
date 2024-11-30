@@ -15,6 +15,9 @@
   - obě mají 6 bajtů
   - Zařízení zjišťuje jestli je přijímačem a proto je adresa přijímače první jestli ne tak rámec vypustí
 
+#### Ethernetové adresy
+ - 
+
 #### Typ a délka
  - 802.3 zamění typové pole za délku dat 
 	 - Používá začátek dat pro *802.2 LLC (Logical LInk Control) protocol* pro typovou informaci
@@ -34,4 +37,4 @@
 - nezáleže na délce dat, má 4 bajty (32 bitů)
 
 #### Mezera mezi rámci
- - má 12 bajtů a slouží k rozdělení jedotlivých válců
+ - má 12 bajtů a slouží k rozdělení jednotlivých rámců 
