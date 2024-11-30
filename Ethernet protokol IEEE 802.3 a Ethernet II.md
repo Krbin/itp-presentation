@@ -11,10 +11,14 @@
 #### SOF - Začátek rámce 802.3
   -  7 alternujících jedniček a nul s jedničkou na konci
 
-#### Adresy přijímače a vysílače - [[MAC Adresa]]
+#### Adresy přijímače a vysílače
   - obě mají 6 bajtů
   - Zařízení zjišťuje jestli je přijímačem a proto je adresa přijímače první jestli není tak rámec vypustí
-
+  - V hexadecimální soutavě
+```
+00:01:42:a9:c2:dd
+00-01-42-a9-c2-dd
+```
 
 #### Typ a délka
  - 802.3 zamění typové pole za délku dat 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAC Adresa.md",
+                "file": "Ethernet protokol IEEE 802.3 a Ethernet II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MAC Adresa"
+              "title": "Ethernet protokol IEEE 802.3 a Ethernet II"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAC Adresa.md",
+                "file": "Ethernet protokol IEEE 802.3 a Ethernet II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MAC Adresa"
+              "title": "Backlinks for Ethernet protokol IEEE 802.3 a Ethernet II"
             }
           },
           {
@@ -175,15 +175,15 @@
   },
   "active": "cbb9dd5f9c7cd62e",
   "lastOpenFiles": [
-    "Ethernet protokol IEEE 802.3 a Ethernet II.md",
     "MAC Adresa.md",
-    "Untitled",
     "Images/image-106.png",
+    "Images/image-105.png",
+    "Images/image-98.png",
+    "Ethernet protokol IEEE 802.3 a Ethernet II.md",
+    "Untitled",
     "itp presentation.md",
     "README.md",
-    "Images/image-105.png",
     "itp-presentation",
-    "Images/image-98.png",
     "Images"
   ]
 }
