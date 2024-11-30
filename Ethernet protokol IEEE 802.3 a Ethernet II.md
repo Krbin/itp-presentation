@@ -13,8 +13,7 @@
 
 #### Adresy přijímače a vysílače - [[MAC Adresa]]
   - obě mají 6 bajtů
-  - Zařízení zjišťuje jestli je přijímačem a proto je adresa přijímače první jestli ne tak rámec vypustí
-  - 
+  - Zařízení zjišťuje jestli je přijímačem a proto je adresa přijímače první jestli není tak rámec vypustí
 
 
 #### Typ a délka
