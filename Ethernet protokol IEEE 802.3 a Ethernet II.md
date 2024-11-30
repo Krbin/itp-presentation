@@ -15,6 +15,7 @@
   - obě mají 6 bajtů
   - Zařízení zjišťuje jestli je přijímačem a proto je adresa přijímače první jestli není tak rámec vypustí
   - V hexadecimální soutavě
+  - skládá sé
 ```
 00:01:42:a9:c2:dd
 00-01-42-a9-c2-dd
