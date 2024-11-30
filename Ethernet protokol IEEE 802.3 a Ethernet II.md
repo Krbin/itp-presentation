@@ -19,14 +19,19 @@
   - V hexadecimální soutavě
   - skládá se z 3 bajtů ID výrobce a 3 bajtů ID karty
 
- - Poslední bit v prvním bajtu určuje jestli je adresa unicast *(v případě že bit je 0)* nebo multicast *(v případě že je jedna)* 
+ - Unicast Multicast - Poslední bit v prvním bajtu určuje jestli je adresa unicast *(v případě že bit je 0)* nebo multicast *(v případě že je jedna)* 
 
- - poslední bit je 0 znamenaje že adresa je unicast *(můžete poznat jestli první bit je lichý 1,...,9,B,D,F)* `06:b2:d9:a2:32:9e | 06 => 00000110`
+	 - Když poslední bit je **0** znamenaje že adresa je unicast *(můžete poznat jestli první bit je sudý 0,...,8,A,C,E)* `06:b2:d9:a2:32:9e | 06 => 00000110`
 
-- poslední bit je 1 znamenaje že adresa je multicast *(můžete poznat jestli první bit je sudý 2,...,8,A,C,E)*   `11:c0:ff:ee:d8:ab | 11 => 00010001`
+	- Když poslední bit je **1** znamenaje že adresa je multicast *(můžete poznat jestli první bit je sudý 1,...,9,B,D,F)*   `11:c0:ff:ee:d8:ab | 11 => 00010001`
+	
+	- Broadcast adresa, kde všechny bity jsou zapnuté  `FF:FF:FF:FF:FF:FF`
 
-- Broadcast adresa, kde všechny bity jsou zapnuté  `FF:FF:FF:FF:FF:FF`
+-  Globální unikátnost - předposlední bit určuje jestli je adresa globálně jedinečná nebo lokálně spravovaná 
 
+	 - Když předposlední bit je **0** znamenaje že adresa je *globálně jedinečná* *(můžete poznat jestli první bit je sudý 0,...,8,A,C,E)* `06:b2:d9:a2:32:9e | 06 => 00000110`
+
+	- Když předposlední bit je **1** znamenaje že adresa je *lokálně spravovaná* (můžete poznat jestli první bit je sudý 1,...,9,B,D,F)*  `11:c0:ff:ee:d8:ab | 11 => 00010001`
 
 #### Typ a délka
  - 802.3 zamění typové pole za délku dat 
