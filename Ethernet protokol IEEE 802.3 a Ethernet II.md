@@ -29,9 +29,9 @@
 
 -  Globální unikátnost - předposlední bit určuje jestli je adresa globálně jedinečná nebo lokálně spravovaná 
 
-	 - Když předposlední bit je **0** znamenaje že adresa je *globálně jedinečná* *(můžete poznat jestli první bit je sudý 0,...,8,A,C,E)* `06:b2:d9:a2:32:9e | 06 => 00000110`
+	 - Když předposlední bit je **0** znamenaje že adresa je *globálně jedinečná* *(můžete poznat jestli první bit je sudý 0,...,8,A,C,E)* `11:c0:ff:ee:d8:ab | 11 => 00010001` `00:01:42:a9:c2:dd | 00 => 00000000`
 
-	- Když předposlední bit je **1** znamenaje že adresa je *lokálně spravovaná* (můžete poznat jestli první bit je sudý 1,...,9,B,D,F)*  `11:c0:ff:ee:d8:ab | 11 => 00010001`
+	- Když předposlední bit je **1** znamenaje že adresa je *lokálně spravovaná* (můžete poznat jestli první bit je sudý 1,...,9,B,D,F)*  `06:b2:d9:a2:32:9e | 06 => 00000110`
 
 #### Typ a délka
  - 802.3 zamění typové pole za délku dat 
