@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "dd2cae88fa0da4e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bc165fdfc9e9ab9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbb9dd5f9c7cd62e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethernet protokol IEEE 802.3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ethernet protokol IEEE 802.3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89d92a79cae5a7d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "07e68761ca222671",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5e942ada93548fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "abe2362e1a281bb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8ad37db7b91a18f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "686ea2a805eee222",
+    "type": "split",
+    "children": [
+      {
+        "id": "0889225917cdc3fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4101afd434c5fb83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ethernet protokol IEEE 802.3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ethernet protokol IEEE 802.3"
+            }
+          },
+          {
+            "id": "1db79e21a3dde9b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ethernet protokol IEEE 802.3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ethernet protokol IEEE 802.3"
+            }
+          },
+          {
+            "id": "2c0e4da5263d44d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9afdacbd011274e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ethernet protokol IEEE 802.3.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ethernet protokol IEEE 802.3"
+            }
+          },
+          {
+            "id": "78787cd0786050e7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "card-board:CardBoard": false,
+      "obsidian-day-planner:Timeline": false,
+      "homepage:Open homepage": false,
+      "homework-manager:Open homework": false,
+      "obsidian-kanban:Create new board": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cbb9dd5f9c7cd62e",
+  "lastOpenFiles": [
+    "itp-presentation",
+    "Images/image-98.png",
+    "Images",
+    "itp presentation.md"
+  ]
+}
