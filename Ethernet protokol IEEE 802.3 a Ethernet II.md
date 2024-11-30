@@ -53,3 +53,7 @@
 
 #### Mezera mezi rámci
  - má 12 bajtů a slouží k rozdělení jednotlivých rámců 
+
+### Kolize
+ - **CSMA - Carrier Sense Multiple Access**
+	 - zařízení poslouchá jestli kaná
