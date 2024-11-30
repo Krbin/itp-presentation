@@ -56,4 +56,7 @@
 
 ### Kolize
  - **CSMA - Carrier Sense Multiple Access**
-	 - zařízení poslouchá jestli kaná
+	 - zařízení poslouchá jestli komunikační kanál není používaný
+- **CD** – **Collision Detection**
+	- Zařízení poslouchá signál při posílání, když se neschoduje s tím co vyslal zaznamená že vznikla kolize. V tomto případě zruší vysílání a vyšle JAM signál
+	- Je potřeba kdy dvě zařízení začínají vysílat zároveň na jednom kanálu
