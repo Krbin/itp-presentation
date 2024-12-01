@@ -22,21 +22,46 @@
             }
           },
           {
-            "id": "c6c49b3ea94a8069",
+            "id": "37902be7694e3cb8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/ipv4_adress.webp"
+              },
+              "icon": "lucide-image",
+              "title": "ipv4_adress"
+            }
+          },
+          {
+            "id": "3c2fa93c9b85c8ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARP protokol.md",
+                "file": "IP protokol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARP protokol"
+              "title": "IP protokol"
+            }
+          },
+          {
+            "id": "1d2a77e2589f77bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zdroje.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zdroje"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARP protokol.md",
+                "file": "itp presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ARP protokol"
+              "title": "Backlinks for itp presentation"
             }
           },
           {
@@ -188,11 +213,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6c49b3ea94a8069",
+  "active": "cbb9dd5f9c7cd62e",
   "lastOpenFiles": [
-    "Ethernet protokol IEEE 802.3 a Ethernet II.md",
-    "ARP protokol.md",
+    "IP protokol.md",
     "itp presentation.md",
+    "Zdroje.md",
+    "Images/ipv4_adress.webp",
+    "ARP protokol.md",
+    "Ethernet protokol IEEE 802.3 a Ethernet II.md",
     "MAC Adresa.md",
     "Images/image-106.png",
     "Images/image-105.png",
